@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Akash 👋
 
-<!--
-**thankiakash7/thankiakash7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc Data Science student with nearly 4 years of professional experience, including 2+ years in data analytics solving real-world business problems.
 
-Here are some ideas to get you started:
+I have hands-on experience working with large-scale datasets using Python, SQL, and statistical analysis. My background includes building analytical pipelines, feature-rich dashboards, recurring performance trackers, and delivering insights for enterprise clients across FMCG and technology domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Data Cleaning, EDA, Feature Engineering
+- Statistical Analysis & Hypothesis Testing
+- Machine Learning (Regression, Classification, Model Evaluation)
+- Data Visualisation (Matplotlib, Seaborn)
+- Dashboards & Reporting
+- Git, Jupyter Notebook, Google Colab
+
+### 📊 Interests
+- Applied Data Science & Analytics
+- Machine Learning & Information Retrieval
+- Business & Product Analytics
+- Decision-focused Data Systems
+
+📫 **LinkedIn:** https://www.linkedin.com/in/akash-thanki/

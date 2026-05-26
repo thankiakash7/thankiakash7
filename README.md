@@ -1,8 +1,8 @@
 # Akash Thanki
 
-MSc Data Science at the University of Sussex. Before this, I spent four years at Numerator working with large-scale FMCG data - building analytical pipelines, dashboards, and consumer scorecards for clients like Google, Amazon, Samsung, and Unilever.
+MSc Data Science at the University of Sussex. Before this, I spent four years at Numerator working with large-scale FMCG data — building analytical pipelines, dashboards, and consumer scorecards for clients like Google, Amazon, Samsung, and Unilever.
 
-I came back into study because I wanted to go deeper into the theory behind what I was doing in industry. That's meant a lot of statistics, machine learning fundamentals, and Python at a level that wasn't required when you're shipping weekly trackers.
+I came back into study because I wanted to go deeper into the theory behind what I was doing in industry. That's meant a lot of statistics, machine learning from first principles, NLP, and building things in PyTorch rather than just calling sklearn.
 
 Currently looking for **internships, graduate, and entry-level roles** in data science, data analytics, or applied ML — based in Brighton, open to London.
 
@@ -10,22 +10,38 @@ Currently looking for **internships, graduate, and entry-level roles** in data s
 
 ## What I work with
 
-**Languages & libraries**
-Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) · SQL · C++
+**Languages and libraries**
+
+Python (Pandas, NumPy, Scikit-learn, PyTorch, SciPy, NLTK) · SQL · C++
 
 **What I actually do with them**
-EDA and feature engineering · Supervised learning (regression, classification) · Statistical analysis and hypothesis testing · Dashboard and tracker builds · Stakeholder reporting
+
+EDA and feature engineering · Supervised learning (regression, classification) · Neural networks (MLP, CBOW) · Statistical modelling (MLE, hypothesis testing, Bayesian MCMC) · NLP (TF-IDF, WordNet, word embeddings) · Dashboard and tracker builds · Stakeholder reporting
 
 **Tools**
-Jupyter · Git · Tableau · Google Colab · Excel
+
+Jupyter · Marimo · Git · Tableau · Google Colab · Excel
+
+---
+
+## Projects
+
+| Project | What it is | Status |
+|---------|-----------|--------|
+| [Weather Forecasting MLP](https://github.com/thankiakash7/weather-forecasting-mlp) | PyTorch MLP — 7-day forecast of rain, wind, pressure from NASA GLDAS/MERRA-2 data | Complete |
+| [Mushroom Classifier](https://github.com/thankiakash7/mushroom-classifier) | Chi-square feature selection + decision tree for edibility — 97% accuracy, human-readable rules | Complete |
+| [NLP: IR and Semantic Similarity](https://github.com/thankiakash7/nlp-information-retrieval) | TF-IDF retrieval + WordNet semantics + CBOW embeddings, built from scratch | Complete |
+| [Statistical Analysis](https://github.com/thankiakash7/statistical-analysis-python) | MLE, least squares with AIC model comparison, Bayesian MCMC — Marimo notebook | Complete |
+| [Titanic Survival Prediction](https://github.com/thankiakash7/Titanic) | EDA, feature engineering, Logistic Regression vs Random Forest comparison | Complete |
+| [CS50x](https://github.com/thankiakash7/CS50x) | Harvard's intro CS course — problem sets in C, Python, SQL | Complete |
 
 ---
 
 ## A bit of background
 
-Four years of industry work gives you a very specific kind of intuition — you get fast at understanding what stakeholders actually need versus what they asked for, at finding the story in noisy data, and at knowing when a simple Excel answer beats a complex model. 
+Four years of industry work gives you a very specific kind of intuition — you get fast at understanding what stakeholders actually need versus what they asked for, at finding the story in noisy data, and at knowing when a simple answer beats a complex model.
 
-What the MSc is adding: rigour. Proper understanding of why methods work, not just that they do.
+What the MSc is adding: rigour. Proper understanding of why methods work, not just that they do. Building a neural network from scratch is a different experience from calling `nn.Linear`.
 
 ---
 

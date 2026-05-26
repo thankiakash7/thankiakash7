@@ -1,6 +1,6 @@
 # Akash Thanki
 
-MSc Data Science at the University of Sussex. Before this, I spent four years at Numerator working with large-scale FMCG data — building analytical pipelines, dashboards, and consumer scorecards for clients like Google, Amazon, Samsung, and Unilever.
+MSc Data Science at the University of Sussex. Before this, I spent four years at Numerator working with large-scale FMCG data - building analytical pipelines, dashboards, and consumer scorecards for clients like Google, Amazon, Samsung, and Unilever.
 
 I came back into study because I wanted to go deeper into the theory behind what I was doing in industry. That's meant a lot of statistics, machine learning fundamentals, and Python at a level that wasn't required when you're shipping weekly trackers.
 

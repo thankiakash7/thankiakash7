@@ -4,7 +4,7 @@ MSc Data Science at the University of Sussex. Before this, I spent four years at
 
 I came back into study because I wanted to go deeper into the theory behind what I was doing in industry. That's meant a lot of statistics, machine learning from first principles, NLP, and building things in PyTorch rather than just calling sklearn.
 
-Currently looking for **internships, graduate, and entry-level roles** in data science, data analytics, or applied ML — based in Brighton, open to London.
+Currently looking for **internships, graduate, and entry-level roles** in data science, data analytics, or applied ML.
 
 ---
 

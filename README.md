@@ -20,7 +20,7 @@ EDA and feature engineering · Supervised learning (regression, classification) 
 
 **Tools**
 
-Jupyter · Marimo · Git · Tableau · Google Colab · Excel
+Jupyter · Marimo · Git · Tableau · Google Colab · Excel · Power BI 
 
 ---
 

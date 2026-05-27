@@ -34,6 +34,7 @@ Jupyter · Marimo · Git · Tableau · Google Colab · Excel · Power BI
 | [Statistical Analysis](https://github.com/thankiakash7/statistical-analysis-python) | MLE, least squares with AIC model comparison, Bayesian MCMC — Marimo notebook | Complete |
 | [Titanic Survival Prediction](https://github.com/thankiakash7/Titanic) | EDA, feature engineering, Logistic Regression vs Random Forest comparison | Complete |
 | [CS50x](https://github.com/thankiakash7/CS50x) | Harvard's intro CS course — problem sets in C, Python, SQL | Complete |
+| [Vehicle Detection Benchmark](https://github.com/thankiakash7/vehicle-detection-benchmark) | 4-way detector comparison: Threshold, GMM, Frame Differencing, YOLOv4 on traffic video | Complete |
 
 ---
 

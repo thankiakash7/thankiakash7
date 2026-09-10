@@ -28,7 +28,7 @@ Jupyter · Marimo · Git · Tableau · Google Colab · Excel · Power BI
 
 | Project | What it is | Status |
 |---------|-----------|--------|
-| [S&P 500 Return Forecasting](https://github.com/thankiakash7/sp500-forecasting-dissertation) | MSc dissertation — walk-forward comparison of ARMA/GARCH vs LSTM/GRU/TFT on 99 S&P 500 stocks, with Diebold-Mariano testing, MCS, portfolio backtest, and RMT covariance denoising | Completed |
+| [S&P 500 Return Forecasting](https://github.com/thankiakash7/sp500-forecasting-dissertation) | MSc dissertation — walk-forward comparison of ARMA/GARCH vs LSTM/GRU/TFT on 99 S&P 500 stocks, with Diebold-Mariano testing, MCS, portfolio backtest, and RMT covariance denoising | Complete |
 | [Weather Forecasting MLP](https://github.com/thankiakash7/weather-forecasting-mlp) | PyTorch MLP — 7-day forecast of rain, wind, pressure from NASA GLDAS/MERRA-2 data | Complete |
 | [Mushroom Classifier](https://github.com/thankiakash7/mushroom-classifier) | Chi-square feature selection + decision tree for edibility — 97% accuracy, human-readable rules | Complete |
 | [NLP: IR and Semantic Similarity](https://github.com/thankiakash7/nlp-information-retrieval) | TF-IDF retrieval + WordNet semantics + CBOW embeddings, built from scratch | Complete |
